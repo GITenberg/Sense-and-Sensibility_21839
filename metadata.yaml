@@ -1,0 +1,52 @@
+_repo: Sense-and-Sensibility_21839
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Dobson, Austin
+    alias: Dobson, Henry Austin
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '2155'
+    url: http://www.gutenberg.org/2009/agents/2155
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Austin_Dobson
+  illustrator:
+    agent_name: Thomson, Hugh
+    birthdate: 1860
+    deathdate: 1920
+    gutenberg_agent_id: '24921'
+    url: http://www.gutenberg.org/2009/agents/24921
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+description: ''
+gutenberg_issued: '2007-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Gentry -- England -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Regency fiction'
+- !lcsh 'Love stories'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Social classes -- Fiction'
+title: Sense and Sensibility
+url: http://www.gutenberg.org/ebooks/21839
